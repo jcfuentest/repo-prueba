@@ -7,6 +7,7 @@ int main() {
 
     for ( r = 0; r < 5; ++r) {
         printf("%i. digite un numero: ", 1+r);
+        print("hola quepasa");
         scanf("%i", &f[r] );
     }
 
