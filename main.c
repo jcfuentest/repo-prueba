@@ -9,6 +9,7 @@ int main() {
         printf("%i. digite un numero: ", 1+r);
         print("hola quepasa");
         scanf("%i", &f[r] );
+        we
     }
 
 
